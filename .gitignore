@@ -1,0 +1,7 @@
+.vscode/
+temp
+temp.*
+*.temp
+**/temp
+**/temp.*
+**/*.temp
