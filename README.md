@@ -1,6 +1,6 @@
 # iris_wrappers
 
-A wrapper library for Iris ([](https://github.com/kataras/iris)) web framework.
+A wrapper library for Iris ([https://github.com/kataras/iris](https://github.com/kataras/iris)) web framework.
 
 iris_wrappers contains several (currently only 1) packages to simplify you work with Iris.
 
